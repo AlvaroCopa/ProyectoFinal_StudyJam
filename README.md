@@ -10,7 +10,7 @@ Repositorio Proyecto Final del Study Jam Android Development for Beginners II 20
 
 Nombre Aplicación.
 ---
-El nombre de la aplicación es: FondoNavApp
+El nombre de la aplicación es: FondosNavideños
 
 Objetivo
 ---
