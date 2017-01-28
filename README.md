@@ -63,16 +63,14 @@ En este proyecto de utilizáron los siguientes componentes tanto en el `diseño`
 
 **`Vista:`**
 * LinearLayout (Horizontal) para la alineación de las vistas principales.
-* RelativeLayout, para el acomodamiento de la segunda pantalla: SegundaActivity.
 * ImageView, para visualizar las imagenes
-* EditTexts, para recabar información acerca de los nombres de las personas.
+* EditTexts, para el titulo.
 .
 .
 .
 
 **`Funcionalidad:`**
 * WallpaperManager, para cambiar el fondo de la pantalla.
-* Ciclo de vida de una Activity, para detectar cuando se coloca en Pausado asi pueda seguir ejecutandose una tarea.
 .
 .
 .
